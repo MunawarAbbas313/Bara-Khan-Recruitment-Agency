@@ -16,17 +16,17 @@ const quickLinks = [
   { to: "/", en: "Home", ur: "صفحہ اول" },
   { to: "/about", en: "About", ur: "ہمارے بارے میں" },
   { to: "/services", en: "Services", ur: "خدمات" },
-  { to: "/jobs", en: "Jobs", ur: "نوکریاں" },
+  
   { to: "/contact", en: "Contact", ur: "رابطہ کریں" },
 ];
 
 const industryLinks = [
-  { to: "/jobs", en: "Health Care", ur: "صحت" },
-  { to: "/jobs", en: "Construction", ur: "تعمیرات" },
-  { to: "/jobs", en: "Hospitality", ur: "مہمان نوازی" },
-  { to: "/jobs", en: "Information Technology", ur: "انفارمیشن ٹیکنالوجی" },
-  { to: "/jobs", en: "Oil, Gas & Petroleum", ur: "تیل، گیس اور پیٹرولیم" },
-  { to: "/jobs", en: "Food Processing", ur: "فوڈ پروسیسنگ" },
+  { to: "/contact", en: "Health Care", ur: "صحت" },
+  { to: "/contact", en: "Construction", ur: "تعمیرات" },
+  { to: "/contact", en: "Hospitality", ur: "مہمان نوازی" },
+  { to: "/contact", en: "Information Technology", ur: "انفارمیشن ٹیکنالوجی" },
+  { to: "/contact", en: "Oil, Gas & Petroleum", ur: "تیل، گیس اور پیٹرولیم" },
+  { to: "/contact", en: "Food Processing", ur: "فوڈ پروسیسنگ" },
 ];
 
 const Footer = () => {
